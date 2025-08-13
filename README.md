@@ -21,8 +21,6 @@
   [Демо](https://mini-app-tg-nu.vercel.app/) | [Код](https://github.com/Guseyn9/Mini-App-Tg/)
 - **Lagoona** — красивый сайт для сети отелей с приятным дизайном  
   [Демо](https://lagoona-one.vercel.app/) | [Код](https://github.com/Guseyn9/Lagoona)
-- **High-pass** — сайт для любителей кино-фильмов, собранный с помощью Gulp сборки
-  [Демо](https://lagoona-one.vercel.app/) | [Код](https://github.com/Guseyn9/Lagoona)
 - **Favou** — приятная страница с множеством красивых JavaScript анимаций  
   [Демо](https://lagoona-one.vercel.app/) | [Код](https://github.com/Guseyn9/Lagoona)
 
