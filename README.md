@@ -23,8 +23,6 @@
   [Демо](https://high-pass-snowy.vercel.app/) | [Код](https://github.com/Guseyn9/High-pass)
 - **Lagoona** — красивый сайт для сети отелей с приятным дизайном  
   [Демо](https://lagoona-one.vercel.app/) | [Код](https://github.com/Guseyn9/Lagoona)
-- **Lagoona** — красивый сайт для сети отелей с приятным дизайном  
-  [Демо](https://lagoona-one.vercel.app/) | [Код](https://github.com/Guseyn9/Lagoona)
 - **Favou** — приятная страница с множеством красивых JavaScript анимаций  
   [Демо](https://favou.vercel.app/) | [Код](https://github.com/Guseyn9/Favou/tree/main)
 
