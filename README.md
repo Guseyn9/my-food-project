@@ -15,12 +15,16 @@
 ### 📌 Мои проекты
  
   [Демо этого проекта](https://my-food-project-ten.vercel.app/)
-- **W-wawe** — красивый сайт с приятным дизайном и анимациями  
+- **W-wawe** — музыкальный сайт с приятным дизайном и анимациями  
   [Демо](https://w-wawe-cyan.vercel.app/) | [Код](https://github.com/Guseyn9/W-wawe)
 - **MiniAppTg** — мини-приложение для телеграмм платформы  
   [Демо](https://mini-app-tg-nu.vercel.app/) | [Код](https://github.com/Guseyn9/Mini-App-Tg/)
-- **Rocont** — приятный сайт с JavaScript анимациями  
-  [Демо](https://rocont-project.vercel.app/) | [Код](https://github.com/Guseyn9/Rocont-project)
+- **Lagoona** — красивый сайт для сети отелей с приятным дизайном  
+  [Демо](https://lagoona-one.vercel.app/) | [Код](https://github.com/Guseyn9/Lagoona)
+- **High-pass** — сайт для любителей кино-фильмов, собранный с помощью Gulp сборки
+  [Демо](https://lagoona-one.vercel.app/) | [Код](https://github.com/Guseyn9/Lagoona)
+- **Favou** — приятная страница с множеством красивых JavaScript анимаций  
+  [Демо](https://lagoona-one.vercel.app/) | [Код](https://github.com/Guseyn9/Lagoona)
 
 ---
 
