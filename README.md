@@ -20,11 +20,13 @@
 - **MiniAppTg** — мини-приложение для телеграмм платформы  
   [Демо](https://mini-app-tg-nu.vercel.app/) | [Код](https://github.com/Guseyn9/Mini-App-Tg/)
  - **High-pass** — сайт для любителей кино-фильмов, собранный с помощью Gulp сборки
+  [Демо](https://high-pass-snowy.vercel.app/) | [Код](https://github.com/Guseyn9/High-pass)
+- **Lagoona** — красивый сайт для сети отелей с приятным дизайном  
   [Демо](https://lagoona-one.vercel.app/) | [Код](https://github.com/Guseyn9/Lagoona)
 - **Lagoona** — красивый сайт для сети отелей с приятным дизайном  
   [Демо](https://lagoona-one.vercel.app/) | [Код](https://github.com/Guseyn9/Lagoona)
 - **Favou** — приятная страница с множеством красивых JavaScript анимаций  
-  [Демо](https://lagoona-one.vercel.app/) | [Код](https://github.com/Guseyn9/Lagoona)
+  [Демо](https://favou.vercel.app/) | [Код](https://github.com/Guseyn9/Favou/tree/main)
 
 ---
 
