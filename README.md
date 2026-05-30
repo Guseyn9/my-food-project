@@ -16,7 +16,7 @@
  
   [Демо этого проекта](https://my-food-project-ten.vercel.app/)
 - **W-wawe** — музыкальный сайт с приятным дизайном и анимациями  
-  [Демо](https://w-wawe-cyan.vercel.app/) | [Код](https://github.com/Guseyn9/W-wawe)
+  [Демо](https://w-wave-lac.vercel.app/) | [Код](https://github.com/Guseyn9/W-wave)
 - **MiniAppTg** — мини-приложение для телеграмм платформы  
   [Демо](https://mini-app-tg-nu.vercel.app/) | [Код](https://github.com/Guseyn9/Mini-App-Tg/)
  - **High-pass** — сайт для любителей кино-фильмов, собранный с помощью Gulp сборки   
